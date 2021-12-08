@@ -6,17 +6,10 @@ letter-spacing: 3px;
 font-family: monospace; "Monaco"
 }
 
-.nav {
-  margin-left: auto;
-  margin-right: auto;
-  width: 100%;
-  padding: 10px;
-
-}
-
 ul {
 list-style-type: none;
-margin: 0;
+margin-left: auto;
+margin-right: auto;
 padding: 0;
 overflow: hidden;
 }
