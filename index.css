@@ -39,5 +39,5 @@ h1 {
 }
 
 li a:hover {
-  text-shadow: 4px 4px #ff0000;
+  background-color: black; 
 }
