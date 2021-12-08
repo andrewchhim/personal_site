@@ -40,5 +40,6 @@ h1 {
 }
 
 li a:hover {
-
+  border: 5px;
+  border-color: black;
 }
