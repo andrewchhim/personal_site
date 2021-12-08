@@ -10,8 +10,9 @@ body {
 h1 {
   font-size: 50px;
   text-align: center;
+  padding: 10px;
   color: black;
-  letter-spacing: 5px;
+  letter-spacing: 4px;
   font-family: 'Lusitana', serif;
 }
 
