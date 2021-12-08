@@ -29,6 +29,5 @@ li a:hover {
 .nav {
   background-color: green;
   position: relative;
-  left: auto;
-  right: auto;
+  left: 500px;
 }
