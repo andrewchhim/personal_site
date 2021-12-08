@@ -1,4 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Lusitana);
+
+@import url('https://fonts.googleapis.com/css2?family=Lusitana&display=swap');
+
 
 body {
   background-color: rgb(253, 247, 241);
@@ -10,7 +12,7 @@ h1 {
   text-align: center;
   color: black;
   letter-spacing: 5px;
-  font-family: sans-serif; "Lusitana"
+  font-family: 'Lusitana', serif;
 }
 
 .nav ul {
