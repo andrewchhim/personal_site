@@ -15,7 +15,7 @@ margin: 0 auto;
 }
 
 li a {
-display: block;
+float: left;
 font-size: 25px;
 color: black;
 padding: 10px 20px;
