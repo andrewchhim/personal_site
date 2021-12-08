@@ -18,7 +18,7 @@ h1 {
 }
 
 .nav a {
-  text-decoration:
+  text-decoration: none;
   width:100px;
   display: block;
   padding: 25px 20px;
