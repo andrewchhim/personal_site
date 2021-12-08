@@ -8,7 +8,7 @@ font-family: monospace; "Monaco"
 
 .nav {
   position: relative;
-  right: 200px;
+  left: 200px;
 }
 
 ul {
