@@ -8,8 +8,7 @@ font-family: monospace; "Monaco"
 
 ul {
 list-style-type: none;
-text-align: center;
-display: inline;
+display: inline-inline-block;
 margin: 0;
 padding: 0;
 overflow: hidden;
