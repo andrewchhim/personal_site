@@ -11,7 +11,8 @@ list-style-type: none;
 padding: 0;
 overflow: hidden;
 position: relative;
-left: 550px;
+left: auto;
+right: auto;
 }
 
 li a {
