@@ -13,11 +13,12 @@ overflow: hidden;
 }
 
 li a {
+  margin-left: auto;
+  margin-right: auto;
 float: left;
 display: block;
 font-size: 25px;
 color: black;
-text-align: center;
 padding: 10px 20px;
 text-decoration: none;
 font-family: monospace; "Monaco"
