@@ -38,6 +38,6 @@ h1 {
     font-family: 'Lusitana', serif;
 }
 
-li a:hover {
-  background-color: black; 
+.nav li a:hover {
+  background-color: black;
 }
