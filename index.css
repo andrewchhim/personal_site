@@ -10,6 +10,8 @@ ul {
 list-style-type: none;
 padding: 0;
 overflow: hidden;
+position: relative;
+left: 550px;
 }
 
 li a {
@@ -20,8 +22,7 @@ color: black;
 padding: 10px 20px;
 text-decoration: none;
 font-family: monospace; "Monaco"
-position: relative;
-left: 550px;
+
 }
 
 li a:hover {
