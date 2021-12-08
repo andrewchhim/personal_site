@@ -7,7 +7,7 @@ font-family: monospace; "Monaco"
 }
 
 ul {
-display: inline-block;
+display: inline;
 list-style-type: none;
 padding: 0;
 overflow: hidden;
