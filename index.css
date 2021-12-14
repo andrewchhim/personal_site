@@ -44,8 +44,7 @@ ul {
     font-family: 'Lusitana', serif;
 }
 
-.contianer {
-    font-family: 'Lusitana', serif;
-    text-align: center;
-    font-size: 40px
+.profile {
+  background-color: white;
+  opacity: 0.5;
 }
