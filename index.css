@@ -46,5 +46,14 @@ ul {
 
 .profile {
   background-color: solid black;
-  border: 3p
+  text-align: center;
+  border: 3px solid black
+  padding: 40px 100px;
+  display: block;
+}
+
+.socialscontainer{
+  background-color: yellow;
+  height: 100px;
+  width: 30px 50px; 
 }
