@@ -45,7 +45,6 @@ ul {
 }
 
 .profile {
-  height: 200px;
-  width: 50px;
-  background-color: black;
+  background-color: solid black;
+  border: 3p
 }
